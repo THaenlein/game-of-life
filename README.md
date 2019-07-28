@@ -1,2 +1,2 @@
 # game-of-life
-Actually not a game.
+Not an actual game.
